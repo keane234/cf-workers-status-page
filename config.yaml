@@ -38,8 +38,8 @@ monitors:
     method: GET
     expectStatus: 200
     
-  - id: cloudflare-status
-    name: Cloudflare Status
+  - id: cloudflarestatus
+    name: Cloudflare Status Portal
     url: 'https://www.cloudflarestatus.com/'
     method: GET
     expectStatus: 200
