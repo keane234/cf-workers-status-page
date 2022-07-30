@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+  - id: cloudflare-status
+    name: Cloudflare Status
+    url: 'https://www.cloudflarestatus.com/'
+    method: GET
+    expectStatus: 200
