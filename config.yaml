@@ -46,6 +46,6 @@ monitors:
     
   - id: api-cloudflare-com
     name: Cloudflare API
-    url: 'https://api.cloudflare.com//'
+    url: 'https://api.cloudflare.com/'
     method: GET
     expectStatus: 200
